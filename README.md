@@ -9,5 +9,4 @@ In this project, I will showcase the application of data science principles, inc
 - **Data Cleaning**: Handling missing data, outliers, and formatting issues.
 - **Exploratory Data Analysis**: Gaining insights through visualization and statistical methods.
 - **Modeling**: Building predictive models and evaluating their performance.
-- **Final Report**: A comprehensive report documenting the entire data science process.
 
